@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+        <book id="b01">
+        <name>你好世界</name>
+        <price>20</price>
+        <author>李华</author>
+        </book>
+    <book id="b02">
+        <name>你好世界222</name>
+        <price>20</price>
+        <author>李华222</author>
+    </book>
+    <book id="b03">
+        <name>你好世界333</name>
+        <price>20</price>
+        <author>李华3333</author>
+    </book>
+
+
+</books>
