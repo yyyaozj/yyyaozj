@@ -1,3 +1,8 @@
+
+java基础学习以及一些训练
+
+
+
 - 👋 Hi, I’m @yyyaozj
 - 👀 I’m interested in sport
 - 🌱 I’m currently learning SSM and Vue.js
